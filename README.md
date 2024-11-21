@@ -1,6 +1,6 @@
 # Organising Medical Documentation with ICD-10 Codes
 
-This project leverages machine learning and **natural language processing (NLP)** to extract key medical information from transcriptions and match it with ICD-10 codes. It aims to automate and streamline the process of organising medical documentation for efficient diagnosis and billing.
+This project leverages **machine learning and natural language processing (NLP)** to extract key medical information from transcriptions and match it with ICD-10 codes. It aims to automate and streamline the process of organising medical documentation for efficient diagnosis and billing.
 
 ## Key Features
 
@@ -23,7 +23,6 @@ To ensure the project runs smoothly, create a `.env` file in the project root us
 2. Install dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
